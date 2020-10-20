@@ -27,7 +27,7 @@ matplotlib
 mistune 
 mkl-fft
 mkl-random
-mkl-service
+mkl-service==2.3.0
 nbclient
 nbconvert 
 nbformat 
