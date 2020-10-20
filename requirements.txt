@@ -25,9 +25,6 @@ kiwisolver==1.2.0
 MarkupSafe 
 matplotlib 
 mistune 
-mkl-fft==1.0.6
-mkl-random
-mkl-service==2.3.0
 nbclient
 nbconvert 
 nbformat 
