@@ -4,6 +4,6 @@
 
 ###### I have created a Machine learning algorithm to predict the car prices and hosted a simple python flask web application in Heroku
 
-###### You can view the app via this link  : https://carpricepredict-ml.herokuapp.com
+###### You can view the application here  : https://carpricepredict-ml.herokuapp.com
 
 ###### Kaggle Dataset - https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
